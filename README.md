@@ -1,3 +1,1 @@
-Библиотеки:
-jquery
-jquery-validate
+Библиотеки: jquery и jquery-validate
