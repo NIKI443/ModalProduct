@@ -1,0 +1,3 @@
+Библиотеки:
+jquery
+jquery-validate
