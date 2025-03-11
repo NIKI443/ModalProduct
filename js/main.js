@@ -10,7 +10,6 @@ $(document).ready(function () {
 		}, 50)
 	})
 	$('.modal__header .modal__close').click(function () {
-		updateFormData()
 		modalWindow.removeClass('open')
 		setTimeout(function () {
 			modalTrigger.removeClass('hidden')
